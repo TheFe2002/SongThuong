@@ -1,0 +1,1183 @@
+@media (max-width :575px){
+    .polyclinic--information{
+        display: none;
+    }
+    header{
+        margin: 0;
+        padding: 8px 10px;
+        max-width: 375px;
+        margin: 0 auto;
+    }
+    .header__logo img{
+        width: 88%;
+        margin-left: -35px;
+    }
+    .signUp .btn-signUp{
+        padding: 8px 12px;
+        font-size: 12px;
+    }
+    .header--message{
+        display: block;
+    }
+    .search{
+        display: none;
+    }
+    .contact{
+        display: none;
+    }
+    .menu{
+        display: none;
+    }
+    .news{
+        width: 100%;
+    }
+    .carousel--PC{
+        display: none;
+    }
+    .carousel--mobile{
+        display: block;
+    }
+    .logUp{
+        width: 100%;
+        top: 82%;
+        left: 49.999999%;
+        box-shadow: none;
+        padding: 20px 16px 0px 16px;
+    }
+    .logUp .item1{
+        display: none;
+    }
+    .logUp .item2{
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 24px;
+    }
+    .LogUp--top{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .LogUp--end{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+    .LogUp--top .heading--h2{
+        font-size: 15px;
+        margin: 0;
+    }
+    .form-control{
+        margin: 0;
+        width: 100%;
+    }
+    .carousel-indicators{
+        display: none;
+    }
+    .start,.center,.end{
+        width: 100%;
+    }
+    .submit{
+        width: 100%;
+        margin-top: 16px;
+    }
+    .send{
+        width: 100%;
+    }
+    .form-label{
+        margin: 8px 0px 0px 0px;
+    }
+    .polyclinic__main{
+        margin-top: 362px;
+        overflow: hidden;
+    }
+    .polyclinic__calendar .calendar__container{
+        flex-direction: column;
+        max-width: 375px;
+    }
+    .introduce--items{
+        max-width: 375px;
+    }
+    .polyclinic__service .service__container{
+        max-width: 375px;
+    }
+    .introduce--heading{
+        width: 100%;
+        top: 30%;
+        padding: 0 16px;
+    }
+    .introduce--heading p{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .introduce__content{
+        padding: 0;
+    }
+    .introduce__content .heading{
+        font-size: 28px;
+    }
+    .polyclinic__main--thumb{
+        height: 286px;
+    }
+    .introduce__content .title{
+        font-size: 12px;
+    }
+    .introduce__content .img img{
+        width: 17%;
+    }
+    .introduce--items .col-xxl-3{
+        width: 50%;
+    }
+    .introduce--item{
+        padding: 0;
+    }
+    .introduce--items{
+        margin-top: 0;
+        top: 45%;
+        width: 96%;
+        padding-left: 0;
+    }
+    .calendar--left{
+        padding: 0;
+        order: 1;
+    }
+    .calendar--heading{
+        display: none;
+    }
+    .polyclinic__calendar{
+        flex-direction: column;
+    }
+    .content--right{
+        margin: 10px 8px 0px 8px;
+    }
+    .calendar--right-evaluate{
+        margin: 0;
+        padding: 16px 0px;
+    }
+    .calendar--heading--mobile{
+        display: block;
+        padding: 32px 16px 0px 16px;
+        text-align: center;
+    }
+    .calendar--heading--mobile .heading--h1 h1{
+        font-size: 24px;
+        font-weight: 700;
+        color: #091D3E;
+    }
+    .calendar--heading--mobile .heading--h1 h1 span{
+        color: #0092FF;
+    }
+    .calendar--heading--mobile .heading--p p{
+        font-size: 13px;
+        font-weight: 400;
+        color: #091D3E;
+    }
+    .content--right .img img{
+        margin-top: 18px;
+    }
+    .content--right .heading--position{
+        padding-top: 14px;
+        font-size: 11px;
+    }
+    .content--right .heading--name{
+        font-size: 18px;
+    }
+    .content--right .heading-span{
+        font-size: 11px;
+    }
+    .content--right .heading-p{
+        font-size: 12px;
+        padding: 0px 16px 15px 16px;
+        line-height: 18px;
+        font-weight: 400;
+    }
+    .calendar__content .week p{
+        font-size: 14px;
+    }
+    .calendar__content{
+        border-radius: 12px 12px 0px 0px;
+    }
+    .tab-item{
+        font-size: 12px;
+        padding-top: 8px;
+        padding-bottom: 5px;
+    }
+    .doctors{
+        max-height: 313px;
+        padding-bottom: 20px;
+    }
+    .doctor{
+        margin: 8px 13px 0px 13px;
+    }
+    .doctor .heading .heading--span,
+    .doctor-week span{
+        font-size: 9px;
+    }
+    .doctor .heading .heading-p,
+    .doctor-week p{
+        font-size: 13px;
+    }
+    .doctor .heading{
+        margin-left: -30px;
+    }
+    .polyclinic__team--top{
+        padding: 32px 16px 0px 16px;
+        flex-direction: column;
+    }
+    .right form{
+        margin: 0;
+    }
+    .left .heading-h1 h1{
+        font-size: 24px;
+    }
+    .left p{
+        font-size: 13px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+    .bnt--team{
+        font-size: 14px;
+        padding: 10px 24px;
+    }
+    .polyclinic__team--end{
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+        margin-left: 16px;
+    }
+    .polyclinic__team--end .chevron-right{
+        order: 0;
+    }
+    .items{
+        width: 76%;
+        margin: 0px 20px 0px 0px;
+    }
+    .items .img img{
+        width: 100%;
+    }
+    .items .content{
+        padding: 16px 26px 16px 16px;
+    }
+    .items .heading-name{
+        font-size: 14px;
+    }
+    .items .information{
+        font-size: 10px;
+    }
+    .information .icon-name{
+        margin-bottom: 0;
+    }
+    .items .heading-text{
+        font-size: 12px;
+    }
+    .check__LognUp{
+        min-width: 185px;
+        font-size: 12px;
+    }
+    .items:hover .check{
+        display: flex;
+        transform: translateY(0);
+    }
+    .items .check{
+        display: flex;
+        opacity: 1;
+    }
+    .polyclinic__service{
+        padding: 0;
+    }
+    .polyclinic__service .title{
+        flex-direction: column;
+    }
+    .service__content{
+        flex-direction: column  ;
+    }
+    .title--button{
+        display: none;
+    }
+    .product{
+        flex-direction: row;
+    }
+    .button--mobile{
+        display: block;
+        text-align: center;
+        padding: 10px 0px 32px 0px;
+    }
+    .product .item{
+        min-width: 174px;
+    }
+    .product .img img{
+        width: 100%;
+        padding: 0px 5px;
+    }
+    .product .item:nth-child(2){
+        margin: 0;
+    }
+    .product .img span{
+        font-size: 12px;
+        padding: 2px 8px 5px 8px;
+    }
+    .product .img .heading{
+        font-size: 14px;
+        padding: 10px 8px;
+    }
+    .service__content .element:nth-child(1){
+        width: 100%;
+        border-bottom: 1px solid #E9E9EC;
+    }
+    .product .item:nth-child(1){
+        border: none;
+    }
+    .service__content .element:nth-child(2){
+        width: 100%;
+        order: -1;
+    }
+    .service__content .element:nth-child(2) .img{
+        margin: 0;
+    }
+    .service__content .element:nth-child(2) .img img{
+        width: 95%;
+        margin-left: 10px;
+    }
+    .service__content .element:nth-child(2){
+        text-align: initial;
+    }
+    .element:nth-child(2) .img span{
+        font-size: 12px;
+        padding: 2px 8px 5px 8px;
+        right: 0;
+    }
+    .heading-text{
+        padding: 0px 10px 20px 10px;
+    }
+    .element:nth-child(2) .heading--h2{
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+        text-align: initial;
+        line-height: 26px;
+    }
+    .element:nth-child(2) .heading-span{
+        font-size: 14px;
+    }
+    .service__content .element:nth-child(3){
+        width: 100%;
+    }
+    .title-product div{
+        padding: 12px 10px 0px 10px;
+    }
+    .title-product div p:nth-child(1){
+        margin: 0;
+        font-size: 12px;
+    }
+    .title-product div span{
+        font-size: 14px;
+    }
+    .title-product div .heading-p{
+        padding-bottom: 10px;
+        font-size: 12px;
+        padding-top: 0;
+    }
+    .polyclinic__equipment{
+        flex-direction: column;
+        padding: 32px 16px 0px 16px;
+        max-width: 575px;
+    }
+    .equipment__PC{
+        display: none;
+    }
+    .equipment__mobile{
+        display: block;
+    }
+    .equipment-content:nth-child(2){
+        order: -1;
+    }
+    .equipment-content .heading--h1 h1{
+        font-size: 24px;
+    }
+    .equipment-content .heading--span p{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .equipment-content img{
+        width: 100%;
+        border-radius: 5px;
+        padding: 0;
+    }
+    .equipment-content:nth-child(1){
+        padding: 0;
+        margin-top: -28px;
+        min-width: 100%;
+    }
+    .start, .center, .end{
+        max-width: 375px;
+        margin: 0 auto;
+    }
+    .content__details .name__product{
+        padding: 16px 12px 16px 12px;
+    }
+    .name__product .text{
+        font-size: 14px;
+    }
+    .name__product p{
+        font-size: 12px;
+    }
+    .polyclinic__specialist{
+        padding: 32px 14px 32px 14px;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), linear-gradient(180deg, #F5F9FF 0%, #FFFFFF 100%);
+    }
+    .button--PC{
+        display: none;
+    }
+    .top .heading--h1 h1{
+        font-size: 24px;
+        padding-right: 24px;
+    }
+    .specialist__content{
+        margin-top: 32px;
+    }
+    .specialist--mobile{
+        display: block;
+        font-weight: 600;
+        font-size: 14px;
+        display: block;
+        color: #0092FF;
+        text-align: center;
+        padding: 30px 37px !important;
+    }
+    .specialist--item{
+        padding: 15px 9px 12px 9px;
+        width: 49%;
+        margin-top: 12px;
+    }
+    .specialist--item .img .heading--span{
+        padding: 0;
+    }
+    .specialist--item .img img{
+        width: 25%;
+    }
+    .specialist--item .img .heading--span{
+        font-size: 13px;
+        font-weight: 600;
+        padding: 0px 5px;
+    }
+    .question{
+        margin-top: 10px;
+    }
+    .specialist--item .img{
+        padding: 0;
+        padding-bottom: 10px;
+    }
+    .question span{
+        font-size: 11px;
+    }
+    .polyclinic__store{
+        padding: 0px 0px 0px 8px;
+    }
+    .store__product .item{
+        padding-bottom: 16px;
+        width: 176px;
+    }
+    .store__product .item .img img{
+        width: 95%;
+    }
+    .polyclinic__store .next{
+        display: none;
+    }
+    .polyclinic__store .heading--h1 h1{
+        padding-top: 32px;
+    }
+    .store__product .title p:nth-child(1){
+        font-size: 12px;
+        font-weight: 600;
+        padding: 5px 0px;
+    }
+    .store__product .title .price .price--sale{
+        font-size: 14px;
+    }
+    .store__product .title .price p{
+        font-size: 12px;
+    }
+    .polyclinic__store form{
+        text-align: center;
+        margin-top: 24px;
+        margin-bottom: 32px;
+    }
+    .slide__mobile{
+        display: block;
+    }
+    .polyclinic__ask{
+        padding: 0px 0px 0px 16px;
+        max-width: 375px;
+    }
+    .polyclinic__ask .end .left{
+        display: none;
+    }
+    .polyclinic__ask .end .right{
+        min-width: 293px;
+        margin-right: 16px;
+        margin-bottom: 13px;
+    }
+    .item--Top{
+        align-items: center;
+    }
+    .item--Top .img{
+        padding: 10px;
+    }
+    .item--Top .heading .like{
+        display: none;
+    }
+    .item--Top .heading{
+        padding: 0px 0px 0px 8px;
+    }
+    .item--Top .heading h2{
+        font-size: 12px;
+    }
+    .item--end{
+        font-size: 12px;
+    }
+    .item--end ul{
+        padding-left: 9px;
+    }
+    .item--end p{
+        padding-bottom: 30px;
+    }
+    .more{
+        padding-bottom: 32px;
+    }
+    .more span a{
+        color: #fff;
+        padding: 12px 24px;
+        background: #0092FF;
+        border-radius: 4px; 
+    }
+    .more .icon{
+        display: none;
+    }
+    .ask__mobile{
+        display: block;
+    }
+    .polyclinic__comment{
+        height: 376px;
+    }
+    .polyclinic__comment .content .top .heading--h1 h1{
+        padding-top: 0;
+        padding-left: 16px;
+        padding-right: 46px;
+        font-size: 24px;
+    }
+    .polyclinic__comment .content .comment--item{
+        min-width: 100%;
+        margin-right: 15px;
+        padding: 0px 40px 0px 10px;
+    }
+    .swiper-pagination{
+        left: 35%;
+    }
+    .polyclinic__comment .content .end{
+        padding-left: 16px;
+        margin-top: 24px;
+    }
+    .comment__mobile{
+        padding-top: 10px;
+    }
+    .line--border{
+        display: none;
+    }
+    .polyclinic__News{
+        max-width: 375px;
+    }
+    .polyclinic__News .end{
+        justify-content: flex-start;
+    }
+    .polyclinic__News .end .New__Item{
+        flex-direction: column;
+        align-items: flex-start;
+        max-width: 95px;
+        margin: 8px 6px;
+    }
+    .New__Item .img img{
+        width: 130%;
+    }
+    .polyclinic__News .end .New__Item .title{
+        padding: 0;
+        margin-top: 8px;
+    }
+    .polyclinic__News .end .New__Item .title p{
+        font-size: 12px;
+    }
+    .polyclinic__News .end .New__Item .title span{
+        font-size: 14px;
+    }
+    .New__Item .title .question{
+        display: none;
+    }
+    .polyclinic__News .button--Mobile{
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 32px;
+    }
+    .polyclinic__News .comment__mobile{
+        display: none;
+    }
+    .polyclinic__footer{
+        padding: 24px 16px;
+        flex-direction: column;
+        font-size: 14px;
+    }
+    footer .top{
+        padding: 15px 10px;
+        max-width: 375px;
+        flex-direction: column;
+    }
+    footer .top .right .right--item .img img{
+        width: 72%;
+    }
+    footer .top .right .right--item{
+        margin-right: 20px;
+        margin-left: 0;
+    }
+    .right .right--item .title{
+        padding: 0;
+    }
+    .right .right--item .title span{
+        font-size: 10px;
+    }
+    .right .right--item .title p{
+        font-size: 13px;
+    }
+    footer .top .left h1{
+        font-size: 14px;
+    }
+    footer .top .left p{
+        font-size: 12px;
+    }
+    footer .end{
+        flex-direction: column;
+        max-width: 375px;
+        padding: 10px 16px;
+    }
+    .swiper-container-1 .swiper-slide{
+        opacity: 1;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    .polyclinic__main{
+        overflow-y: hidden;
+    }
+    .menu{
+        display: none;
+    }
+    .header--message{
+        display: block;
+    }
+    .bnt-text{
+        padding-right: 70px;
+    }
+    .polyclinic__main--thumb{
+        margin-top: 310px;
+    }
+    .polyclinic--information{
+        display: none;
+    }
+    header{
+        margin-top: 15px;
+        max-width: 576px;
+    }
+    .menu{
+        max-width: 576px;
+    }
+    .introduce--heading{
+        width: 576px;
+        top: 26%;
+    }
+    .introduce--items{
+        justify-content: space-around;
+        top: 41%;
+    }
+    .introduce--item{
+        margin-top: 10px;
+    }
+    .LogUp--end{
+        flex-direction: column;
+        align-items: center;
+    }
+    .form-control{
+        width: 100%;
+    }
+    .logUp{
+        bottom: -315px;
+    }
+    .carousel-indicators{
+        margin-bottom: 20px;
+    }
+    .logUp .submit{
+        margin-top: 10px;
+    }
+    .heading--link{
+        display: none;
+    }
+    .store__product .item{
+        width: 288px;
+        margin-bottom: 15px;
+    }
+    .title{
+        padding-left: 32px;
+    }
+    .start,.center,.end{
+        width: 100%;
+    }
+    .introduce--items{
+        top: 39%;
+        max-width: 576px;
+    }
+    .polyclinic__News{
+        max-width: 576px;
+    }
+    .calendar--left .heading--h1 h1{
+        max-width: 100%;
+        font-size: 36px;
+    }
+    .specialist--item{
+        padding: 11px;
+        max-width: 284px;
+    }
+    .calendar--left .heading--p p,
+    .calendar__content,
+    .content--right{
+        max-width: 100%;
+    }
+    .polyclinic__calendar .calendar__container{
+        flex-direction: column;
+        max-width: 576px;
+    }
+    .doctor .heading{
+        margin-left: -188px;
+    }
+    .polyclinic__team--top{
+        flex-direction: column;
+    }
+    .right form{
+        margin-top: 15px;
+        margin-left: 0;
+    }
+    .polyclinic__team{
+        max-width: 576px;
+    }
+    .items{
+        margin-right: 20px;
+        max-width: 353px;
+    }
+    .polyclinic__service .service__container{
+        max-width: 576px;
+    }
+    .polyclinic__store .top{
+        flex-direction: column;
+    }
+    .service__content .element:nth-child(1){
+        order: 1;
+        width: 100%;
+    }
+    .service__content{
+        justify-content: space-between;
+    }
+    .product{
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: flex-start;
+    }
+    .product .item{
+        padding-right: 87px;
+    }
+    .product .item:nth-child(1){
+        border: none;
+    }
+    .service__content .element:nth-child(2){
+        width: 100%;
+    }
+    .service__content .element:nth-child(3){
+        width: 100%;
+    }
+    .polyclinic__service{
+        padding-top: 88px;
+        padding-bottom: 0;
+    }
+    .polyclinic__equipment{
+        flex-direction: column;
+        max-width: 767px;
+    }
+    .equipment-content:nth-child(1){
+        max-width: 100%;
+        padding: 0;
+        max-width: 576px;
+    }
+    .equipment-content:nth-child(2){
+        max-width: 576px;
+        margin: 0 auto;
+    }
+    .equipment-content img{
+        width: 100%;
+        padding: 0;
+    }
+    .polyclinic__specialist .top{
+        flex-direction: column;
+    }
+    .polyclinic__specialist{
+        max-width: 576px;
+    }
+    .polyclinic__store .store__content{
+        max-width: 576px;
+    }
+    .polyclinic__store form{
+        text-align: center;
+    }
+    .polyclinic__ask{
+        max-width: 576px;
+    }
+    .polyclinic__ask .top{
+        flex-direction: column;
+    }
+    .polyclinic__ask .end{
+        flex-direction: column;
+    }
+    .polyclinic__ask--item,
+    .polyclinic__ask .end .right{
+        max-width: 100%;
+    }
+    .polyclinic__ask .end .right{
+        margin-top: 50px;
+    }
+    .swiper-pagination{
+        left: 40%;
+    }
+    .polyclinic__News .end .New__Item{
+        min-width: 50%;
+    }
+    .polyclinic__footer{
+        text-align: center;
+        max-width: 576px;
+    }
+    footer .top{
+        flex-direction: column;
+        align-items: flex-start;
+        max-width: 576px;
+    }
+    footer .top .right .right--item{
+        margin-right: 30px;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    footer .end{
+        max-width: 576px;
+        flex-direction: column;
+        padding-left: 20px;
+        padding-top: 30px;
+    }
+    footer .logo__footer{
+        max-width: 576px;
+        margin-top: 15px;
+    }
+    .swiper-container-1 .swiper-slide{
+        opacity: 1;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .polyclinic__main{
+        overflow-y: hidden;
+    }
+    .polyclinic__main--thumb{
+        margin-top: 249px;
+    }
+    .polyclinic--information{
+        display: none;
+    }
+    header{
+        margin-top: 15px;
+        max-width: 768px;
+    }
+    .menu{
+        max-width: 768px;
+    }
+    .introduce--heading{
+        width: 768px;
+        top: 35%;
+    }
+    .introduce--items{
+        justify-content: space-around;
+    }
+    .introduce--item{
+        margin-top: 10px;
+    }
+    .LogUp--end{
+        flex-direction: column;
+        align-items: center;
+    }
+    .form-control{
+        width: 100%;
+    }
+    .logUp{
+        bottom: -92%;
+    }
+    .logUp .submit{
+        margin-top: 10px;
+    }
+    .heading--link{
+        display: none;
+    }
+    .store__product .item{
+        width: 255px;
+        margin-bottom: 15px;
+    }
+    .title{
+        padding-left: 16px;
+    }
+    .start,.center,.end{
+        width: 100%;
+    }
+    .introduce--items{
+        top: 39%;
+        max-width: 768px;
+    }
+    .polyclinic__News{
+        max-width: 768px;
+    }
+    .calendar--left .heading--h1 h1{
+        max-width: 100%;
+        font-size: 36px;
+    }
+    .calendar--left .heading--p p,
+    .calendar__content,
+    .content--right{
+        max-width: 100%;
+    }
+    .polyclinic__calendar .calendar__container{
+        flex-direction: column;
+        max-width: 768px;
+    }
+    .doctor .heading{
+        margin-left: -330px;
+    }
+    .polyclinic__team--top{
+        flex-direction: column;
+    }
+    .right form{
+        margin-top: 15px;
+        margin-left: 0;
+    }
+    .polyclinic__team{
+        max-width: 768px;
+    }
+    .items{
+        margin-right: 20px;
+        max-width: 353px;
+    }
+    .polyclinic__service .service__container{
+        max-width: 768px;
+    }
+    .service__content .element:nth-child(1){
+        order: 1;
+        width: 100%;
+    }
+    .service__content{
+        justify-content: space-between;
+    }
+    .product{
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: flex-start;
+    }
+    .product .item{
+        padding-right: 87px;
+    }
+    .product .item:nth-child(1){
+        border: none;
+    }
+    .service__content .element:nth-child(2){
+        width: 100%;
+    }
+    .service__content .element:nth-child(3){
+        width: 100%;
+    }
+    .polyclinic__service{
+        padding-top: 88px;
+        padding-bottom: 0;
+    }
+    .polyclinic__equipment{
+        flex-direction: column;
+        max-width: 991px;
+    }
+    .equipment-content:nth-child(1){
+        max-width: 100%;
+        padding: 0;
+        max-width: 768px;
+    }
+    .equipment-content:nth-child(2){
+        max-width: 768px;
+        margin: 0 auto;
+    }
+    .equipment-content img{
+        width: 100%;
+        padding: 0;
+    }
+    .polyclinic__specialist .top{
+        flex-direction: column;
+    }
+    .polyclinic__specialist{
+        max-width: 768px;
+    }
+    .polyclinic__store .store__content{
+        max-width: 768px;
+    }
+    .polyclinic__ask{
+        max-width: 768px;
+    }
+    .polyclinic__ask .end{
+        flex-direction: column;
+    }
+    .polyclinic__ask--item,
+    .polyclinic__ask .end .right{
+        max-width: 100%;
+    }
+    .polyclinic__ask .end .right{
+        margin-top: 50px;
+    }
+    .swiper-pagination{
+        left: 40%;
+    }
+    .polyclinic__News .end .New__Item{
+        min-width: 50%;
+    }
+    .polyclinic__footer{
+        text-align: center;
+        max-width: 768px;
+    }
+    footer .top{
+        flex-direction: column;
+        align-items: flex-start;
+        max-width: 768px;
+    }
+    footer .top .right .right--item{
+        margin-right: 30px;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    footer .end{
+        max-width: 768px;
+        flex-wrap: wrap;
+    }
+    footer .logo__footer{
+        max-width: 768px;
+        margin-top: 15px;
+    }
+    .swiper-container-1 .swiper-slide{
+        opacity: 1;
+    }
+}
+@media (min-width: 992px) and (max-width: 1169px){
+    .information__content {
+        max-width: 992px;
+        width: 100%;
+        margin: 0px auto;
+    }
+    .polyclinic__News{
+        max-width: 992px;
+    }
+    .introduce--heading{
+        max-width: 992px;
+    }
+    header{
+        max-width: 992px;
+    }
+    .menu{
+        max-width: 992px;
+    }
+    .logUp{
+        max-width: 992px;
+        padding: 15px;
+    }
+    header .contact .row{
+        --bs-gutter-x: 0;
+    }
+    .LogUp--end{
+        justify-content: center;
+    }
+    .logUp .submit{
+        padding-top: 20px;
+    }
+    .introduce--items{
+        max-width: 992px;
+    }
+    .polyclinic__calendar .calendar__container{
+        max-width: 992px;
+    }
+    .calendar--left .calendar--heading{
+        max-width: 470px;
+    }
+    .items{
+        margin: 0px 7px;
+    }
+    .polyclinic__team{
+        max-width: 992px;
+    }
+    .polyclinic__service .service__container{
+        max-width: 992px;
+    }
+    .service__content .element:nth-child(1){
+        order: 1;
+        width: 100%;
+    }
+    .service__content{
+        justify-content: space-between;
+    }
+    .product{
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: flex-start;
+    }
+    .product .item{
+        padding-right: 87px;
+    }
+    .product .item:nth-child(1){
+        border: none;
+    }
+    .service__content .element:nth-child(3){
+        width: 390px;
+    }
+    .polyclinic__service{
+        padding-top: 88px;
+        padding-bottom: 0;
+    }
+    .equipment-content:nth-child(1){
+        padding: 0;
+    }
+    .polyclinic__specialist{
+        max-width: 992px;
+    }
+    .specialist--item{
+        padding: 20px;
+        width: 32.333333%;
+    }
+    .polyclinic__store .store__content{
+        max-width: 992px;
+    }
+    .store__product .item{
+        width: 248px;
+    }
+    .polyclinic__ask .end .left{
+        margin-right: 20px;
+    }
+    .polyclinic__ask{
+        max-width: 992px;
+    }
+    .polyclinic__comment .content .top,
+    footer .top,
+    footer .end{
+        max-width: 992px;
+    }
+    .swiper-container-1 .swiper-slide{
+        opacity: 1;
+    }
+}
